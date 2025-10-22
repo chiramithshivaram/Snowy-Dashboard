@@ -16,7 +16,7 @@ It enables users to explore snow and resort data through engaging visuals — he
 - 📑 Microsoft Excel – Source of the cleaned dataset containing snow and resort information.
 
 4. Data Source
-The dataset originated from an Excel file, which included snow reports, resort statistics, and slope difficulty levels. It was pre-processed and modeled in Power BI to create dynamic visuals and calculations.
+  - The dataset originated from an Excel file, which included snow reports, resort statistics, and slope difficulty levels. It was pre-processed and modeled in Power BI to create dynamic visuals and calculations.
 
 5. Features
 - Displays Key KPIs:
