@@ -28,4 +28,4 @@ The dataset originated from an Excel file, which included snow reports, resort s
 - Visual highlights include bar charts, donut charts, line graphs, and map visuals powered by Bing Maps.
 Monthly trend analysis to track snow averages across different months.
 
-6. Screenshots [Dashboard Preview] {}
+6. Screenshots [Dashboard Preview] {[https://github.com/chiramithshivaram/Snowy-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png](https://github.com/chiramithshivaram/Snowy-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png)}
